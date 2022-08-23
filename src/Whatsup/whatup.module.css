@@ -1,0 +1,99 @@
+.color{
+  background-color:  #A0DBFD; 
+  width: 100%;
+  height: 225px;
+  position: absolute;
+  /* z-index: 1; */
+  top: 155px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  
+  
+ 
+ 
+}
+.khanhdat1{
+  padding: 20px 25px 20px 25px; 
+}
+.khanhdat{
+
+
+  width: 555px;
+  height: 370px;
+  border-bottom-left-radius : 20px;
+  border-top-left-radius : 20px;
+}
+.body{
+  
+    width: 1110px;
+    height: 1700px;
+    /* background-color: aqua; */
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 2;
+    position: relatave;
+    
+    
+}
+.whatsapp{
+    height: 370px;
+    width: 1110px;
+    background-color: #fff;
+    position: relative;
+    display: flex;
+    
+    margin-top: 90px;
+    border: 2px solid #EDEDED ;
+    border-radius: 25px;
+
+}
+   
+    
+
+.flex{
+    height: auto;
+    flex: 1;
+
+}
+.text{
+    min-height: auto;
+    padding: 90px 25px 80px 25px;
+    flex: 1;
+
+} 
+hr.new1{
+    border:  solid #A0DBFD;
+}
+.whatappelement{
+    width: 350px;
+    height: 400px; 
+    margin-top: 20px;
+     border: 2px solid #EDEDED ;
+    border-radius: 25px;
+}
+.note{
+    height: 200px;
+    width: 100%;
+    background-color: #EDEDED;
+}
+.content{ 
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1050px;
+    height: 100px;
+    display: flex;
+
+}
+.text a h2{
+    text-decoration: none;
+}
+.whatappelement a{
+    text-decoration: none;
+}
+.wh{
+    width: 350px;
+    height: 210px;
+    border-top-right-radius : 20px;
+    border-top-left-radius : 20px;
+}

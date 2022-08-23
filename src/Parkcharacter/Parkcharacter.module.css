@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+}
+.head{
+    justify-content: space-between;
+    display: flex;
+    background-color: #A0DBFD;
+    height: 140px;
+    width: 100%;
+    cursor: default;
+    flex-wrap: wrap;
+    
+   
+
+
+
+}
+.class.funday{
+    margin: 0px 90px 0px 80px;
+}
+.head div{
+    color: white;
+    margin: auto 10px;
+
+
+
+}
+.img {
+    width: 1580px;
+    position: absolute;
+    height: 500px;
+   
+}
+.khanhdat{
+    float: right;
+    width: 420px;
+}
+.backcolor{
+    margin-top: 500px;
+    position: absolute;
+    height: 2180px;
+    width: 100%;
+    background-color: #A0DBFD;
+}
+.note{
+    height: 200px;
+    width: 100%;
+    background-color: #EDEDED;
+}
+.content{ 
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1050px;
+    height: 100px;
+    display: flex;
+
+}
+.item{
+    
+  
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    margin-top: 206px;
+   left: 50%;
+   transform: translateX(-50%);
+    position: absolute;
+    z-index: 1;
+    height: 2474px;
+    width: 1140px;
+    background-color: #ffffff;
+}
+.items{
+    
+    max-height: 450px;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
+.item h1{
+    margin-top: 70px;
+    color: orange;
+    position: absolute;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    
+}
+.body{
+
+    margin-top: 227px;
+   
+    height: 2184px;
+    width: 1140px;
+   
+}
+.body1{
+    float: left;
+    height: 380px;
+    width: 1000px;
+    
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 40px;
+    
+}
+.textbody h2{
+    color: #4CAEEA;
+    display: flex;
+   
+}
+
+
+.textbody p{
+    font-family: 'Noto Sans';
+    font-size: 15px;
+}
+/* .ice-name{
+    min-height: auto;
+    margin-top: 200px;
+    width: 250px;
+    height: 406px;
+   
+}
+.ice-name p{
+    text-align: center;
+}
+.fonsize{
+    font-size: 20px;
+} */
+.whatappelement{
+    width: 350px;
+    height: 400px; 
+    margin-top: 20px;
+     border: 2px solid #EDEDED ;
+    border-radius: 25px;
+    background-color: #ffffff;
+}
+hr.new1{
+    border:  solid #A0DBFD;
+}
